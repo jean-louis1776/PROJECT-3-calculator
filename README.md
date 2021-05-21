@@ -1,2 +1,2 @@
-### PROJECT-3-calculator
+### PROJECT-3: Calculator
 Simple calculator with a nice look
